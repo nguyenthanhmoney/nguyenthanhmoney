@@ -7,6 +7,14 @@
 </div>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguyenthanhmoney/nguyenthanhmoney/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguyenthanhmoney/nguyenthanhmoney/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nguyenthanhmoney/nguyenthanhmoney/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h2>My Certifications&nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
 <p align="left">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f0c74e206357411bb05dff111de6452e"><img src="./aws-certified-solutions-architect-associate.png" width="14%"/></a>
