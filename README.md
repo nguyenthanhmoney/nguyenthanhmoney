@@ -15,46 +15,57 @@
 
 ###
 
-<h2>My Certifications&nbsp; <a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a></h2>
+## 🚀 Dự án tiêu biểu
+
+### 🛒 [E-Tech Store - UI/UX Design](https://www.figma.com/file/...)
+*Hệ thống thương mại điện tử chuyên đồ điện tử (Desktop Version).*
+- **Vai trò:** UI/UX Designer & Analyst.
+- **Công cụ:** Figma.
+- **Đặc điểm:** Thiết kế 15+ màn hình, xây dựng Design System đồng bộ, tối ưu luồng thanh toán.
+
+### 💼 [Web Tuyển dụng & Tìm kiếm việc làm](https://github.com/[username]/[repo])
+*Nền tảng kết nối ứng viên và nhà tuyển dụng.*
+- **Vai trò:** BA & Frontend Developer.
+- **Công nghệ:** ReactJS, Tailwind CSS, SQL Server.
+- **Nội dung:** Phân tích sơ đồ Use Case, Sequence Diagram và triển khai giao diện Responsive.
+
+---
+
+## 📜 Chứng chỉ chuyên môn
 <p align="left">
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/f0c74e206357411bb05dff111de6452e"><img src="./aws-certified-solutions-architect-associate.png" width="14%"/></a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/46a217bc49934cd2a8b58ac56e28945e"><img src="./aws-certified-cloud-practitioner.png" width="14%"/></a>
-  <a href="https://www.credly.com/badges/eb592b80-04e0-425b-a95d-4f2839348c92/public_url"><img src="./cloud-digital-leader-certification.png" width="13%"/></a>
-  <a href="https://www.credly.com/badges/852a672b-6049-4b49-8a56-7e03b5d5cc35/public_url"><img src="./mongodb-associate-developer.7.png" width="15%"/></a>
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cert"/></a>
+  <a href="https://www.coursera.org/"><img src="https://img.shields.io/badge/Google-UX_Design_Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google UX"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Business_Analysis_Foundations-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="BA Cert"/></a>
 </p>
 
-<br>
+---
 
-<h2>My Tech Stacks</h2>
+## 🛠 Kỹ năng công nghệ
 
-### Backend
+### Backend & Frontend
 <p align="left">
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/></a>
-    <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
-    <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
-  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### Frontend
+### Database & Cloud
 <p align="left">
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="FastAPI"/></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS"/></a>
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### Database
+---
+
+## 📞 Liên hệ
 <p align="left">
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-### Cloud Services
-<p align="left">
-<a href="https://aws.amazon.com/">
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-</a> <a href="https://www.digitalocean.com/"><img src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean"/></a>
-  <a href="https://render.com/"><img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></a>
-</p>
-
-<br>
+---
+*Cập nhật lần cuối: 15/04/2026 bởi Nguyễn Thanh Tiền*
