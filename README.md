@@ -17,15 +17,15 @@
 
 ## 🚀 Dự án tiêu biểu
 
-### 🛒 [E-Tech Store - UI/UX Design](https://www.figma.com/file/...)
+### 🛒 [E-Tech Store - UI/UX Design]([https://www.figma.com/file/...](https://www.figma.com/design/05ytch40ktxf88YIM7li27/Desktop?node-id=0-1&p=f&t=Ek4b6Kj7s2lQdr9R-0))
 *Hệ thống thương mại điện tử chuyên đồ điện tử (Desktop Version).*
 - **Vai trò:** UI/UX Designer & Analyst.
 - **Công cụ:** Figma.
 - **Đặc điểm:** Thiết kế 15+ màn hình, xây dựng Design System đồng bộ, tối ưu luồng thanh toán.
 
-### 💼 [Web Tuyển dụng & Tìm kiếm việc làm](https://github.com/[username]/[repo])
+### 💼 [Web Tuyển dụng & Tìm kiếm việc làm]([https://github.com/[username]/[repo]](https://app.diagrams.net/#G1aHcq4U70-oAbl6e-3OPaq7br5MGgOS74#%7B%22pageId%22%3A%22uocn6V3vjEEnvq-Wxrbk%22%7D))
 *Nền tảng kết nối ứng viên và nhà tuyển dụng.*
-- **Vai trò:** BA & Frontend Developer.
+- **Vai trò:** BA & Phân tích hệ thống .
 - **Công nghệ:** ReactJS, Tailwind CSS, SQL Server.
 - **Nội dung:** Phân tích sơ đồ Use Case, Sequence Diagram và triển khai giao diện Responsive.
 
