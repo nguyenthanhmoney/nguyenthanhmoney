@@ -26,8 +26,8 @@
 ### 💼 [Web Tuyển dụng & Tìm kiếm việc làm]([https://github.com/[username]/[repo]](https://app.diagrams.net/#G1aHcq4U70-oAbl6e-3OPaq7br5MGgOS74#%7B%22pageId%22%3A%22uocn6V3vjEEnvq-Wxrbk%22%7D))
 *Nền tảng kết nối ứng viên và nhà tuyển dụng.*
 - **Vai trò:** BA & Phân tích hệ thống .
-- **Công nghệ:** ReactJS, Tailwind CSS, SQL Server.
-- **Nội dung:** Phân tích sơ đồ Use Case, Sequence Diagram và triển khai giao diện Responsive.
+- **Công nghệ:** Draw.io,word, SQL Server.
+- **Nội dung:** Phân tích sơ đồ Use Case, CDM,PDM.
 
 ---
 
@@ -62,9 +62,9 @@
 
 ## 📞 Liên hệ
 <p align="left">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="thanhtungtien.com@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/money-nguy%E1%BB%85n-16b40b403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1mSUtPm0Sw2uVn%2FPeXmUaw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/nguyenthanhmoney"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
